@@ -6,7 +6,6 @@
 
 from . import gaussian_diffusion as gd
 from .respace import SpacedDiffusion, space_timesteps
-from .rectifiedflow import RectifiedFlow
 
 
 def create_diffusion(
